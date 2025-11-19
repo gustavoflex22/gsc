@@ -1,4 +1,7 @@
 # FutureWork IA – Avalonia + API
+## Integrantes
+- Vinicus RM553814
+- Gustavo RM554242
 
 Simulador do Trabalho do Futuro com interface desktop em **Avalonia UI** e uma **API REST** para cálculo do índice.
 
