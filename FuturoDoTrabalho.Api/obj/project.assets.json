@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "FuturoDoTrabalho.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/FuturoDoTrabalho.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FuturoDoTrabalho.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FuturoDoTrabalho.Core/1.0.0": {
+      "type": "project",
+      "path": "../FuturoDoTrabalho.Core/FuturoDoTrabalho.Core.csproj",
+      "msbuildProject": "../FuturoDoTrabalho.Core/FuturoDoTrabalho.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "FuturoDoTrabalho.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/gustavofelex/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/gustavofelex/Downloads/FuturoDoTrabalho.Avalonia/FuturoDoTrabalho.Api/FuturoDoTrabalho.Api.csproj",
+      "projectName": "FuturoDoTrabalho.Api",
+      "projectPath": "/Users/gustavofelex/Downloads/FuturoDoTrabalho.Avalonia/FuturoDoTrabalho.Api/FuturoDoTrabalho.Api.csproj",
+      "packagesPath": "/Users/gustavofelex/.nuget/packages/",
+      "outputPath": "/Users/gustavofelex/Downloads/FuturoDoTrabalho.Avalonia/FuturoDoTrabalho.Api/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/gustavofelex/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "/Users/gustavofelex/Downloads/FuturoDoTrabalho.Avalonia/FuturoDoTrabalho.Core/FuturoDoTrabalho.Core.csproj": {
+              "projectPath": "/Users/gustavofelex/Downloads/FuturoDoTrabalho.Avalonia/FuturoDoTrabalho.Core/FuturoDoTrabalho.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

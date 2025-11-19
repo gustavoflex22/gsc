@@ -1,0 +1,11 @@
+/Users/gustavofelex/Downloads/FuturoDoTrabalho.Avalonia/FuturoDoTrabalho.Core/bin/Debug/net9.0/FuturoDoTrabalho.Core.deps.json
+/Users/gustavofelex/Downloads/FuturoDoTrabalho.Avalonia/FuturoDoTrabalho.Core/bin/Debug/net9.0/FuturoDoTrabalho.Core.dll
+/Users/gustavofelex/Downloads/FuturoDoTrabalho.Avalonia/FuturoDoTrabalho.Core/bin/Debug/net9.0/FuturoDoTrabalho.Core.pdb
+/Users/gustavofelex/Downloads/FuturoDoTrabalho.Avalonia/FuturoDoTrabalho.Core/obj/Debug/net9.0/FuturoDoTrabalho.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavofelex/Downloads/FuturoDoTrabalho.Avalonia/FuturoDoTrabalho.Core/obj/Debug/net9.0/FuturoDoTrabalho.Core.AssemblyInfoInputs.cache
+/Users/gustavofelex/Downloads/FuturoDoTrabalho.Avalonia/FuturoDoTrabalho.Core/obj/Debug/net9.0/FuturoDoTrabalho.Core.AssemblyInfo.cs
+/Users/gustavofelex/Downloads/FuturoDoTrabalho.Avalonia/FuturoDoTrabalho.Core/obj/Debug/net9.0/FuturoDoTrabalho.Core.csproj.CoreCompileInputs.cache
+/Users/gustavofelex/Downloads/FuturoDoTrabalho.Avalonia/FuturoDoTrabalho.Core/obj/Debug/net9.0/FuturoDoTrabalho.Core.dll
+/Users/gustavofelex/Downloads/FuturoDoTrabalho.Avalonia/FuturoDoTrabalho.Core/obj/Debug/net9.0/refint/FuturoDoTrabalho.Core.dll
+/Users/gustavofelex/Downloads/FuturoDoTrabalho.Avalonia/FuturoDoTrabalho.Core/obj/Debug/net9.0/FuturoDoTrabalho.Core.pdb
+/Users/gustavofelex/Downloads/FuturoDoTrabalho.Avalonia/FuturoDoTrabalho.Core/obj/Debug/net9.0/ref/FuturoDoTrabalho.Core.dll
